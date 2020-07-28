@@ -1,4 +1,4 @@
-# elo
+# How To Use
 Elo Plugin For 0.15 Servers
 
 How to use?
