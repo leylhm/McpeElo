@@ -1,0 +1,10 @@
+#el jugador iniciara con?
+Starting-Elo: 100
+#perder elo al morir?
+Lose-Elo-onDeath: true
+# Cuanto elo perdera el jugador al morir?
+Death-Elo-Loss: 10
+# ganar elo al matar a alguien?
+Get-Elo-On-Kill: true
+# Cuanto elo ganara el jugador al matar a alguien?
+Elo-On-Kill: 100

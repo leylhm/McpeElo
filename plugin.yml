@@ -1,0 +1,6 @@
+name: Elo
+author: MaugerGames
+version: 1.5.3
+api: 2.0.0
+main: elo\Elo
+description: "The Elo API for your needs!"
