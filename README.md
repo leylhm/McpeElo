@@ -20,7 +20,7 @@ Admin :
 - addelo.command
 - removeelo.command
 
-Plugin By : MaugerGames
+Plugin By : MaugerGames??
 
 Commands :
 /elo
